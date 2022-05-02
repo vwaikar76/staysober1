@@ -1,3 +1,4 @@
+
 <%@page import="bean.LoginDao"%>
 <jsp:useBean id="obj" class="bean.LoginBean"/>
 

@@ -1,3 +1,5 @@
-<a href="login.jsp">login</a>|  
-<a href="logout.jsp">logout</a>|  
-<a href="profile.jsp">profile</a>  
+<form action="loginprocess.jsp">
+Email:<input type="text" name="email"/><br/><br/>
+Password:<input type="password" name="pass"/><br/><br/>
+<input type="submit" value="login"/>
+</form>
