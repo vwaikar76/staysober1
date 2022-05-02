@@ -1,0 +1,7 @@
+login.jsp
+
+register.jsp -> spring controller -> registerAction -> registerDAO -> hibernate -> DB (mysql)
+
+burningDesire.jsp -> 
+
+

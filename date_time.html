@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My First JavaScript</h1>
+
+<button type="button"
+onclick="document.getElementById('date_time_button').innerHTML = Date()">
+Click and see Date and Time.</button>
+
+<p id="date_time_button"></p>
+
+</body>
+</html>

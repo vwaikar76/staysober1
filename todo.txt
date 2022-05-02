@@ -1,0 +1,9 @@
+Issues:
+1. MySQL installation issues
+2. Date difference issues , for sobreity counter
+
+3. chat server issues , burning desire functionality refining
+
+4. login , register issues
+
+5. 

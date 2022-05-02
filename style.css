@@ -1,0 +1,30 @@
+body {
+  text-align: center;
+  background-color: skyblue;
+}
+
+div {
+  margin-top: 15px;
+}
+
+
+.image-section {
+  display: flex;
+  justify-content: center;
+}
+
+.section-style {
+  margin-right: 15px;
+  margin-left: 15px;
+  background-color: pink;
+}
+
+.button_css
+{
+	background-color: red;
+	color: white
+    ;
+	width: 150px;
+	height: 40px;
+    border-radius: 50%;
+}

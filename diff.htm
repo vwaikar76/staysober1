@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<body>
+<script type="text/javascript">
+
+	//var d1 = new Date("12/25/2018");
+	var d1 = new Date("06/24/2018");
+
+	var d2 = new Date("06/24/2019");
+	var timeDiff = d2.getTime() - d1.getTime();
+	var DaysDiff = timeDiff / (1000 * 3600 * 24);
+
+	var MonthsDiff = DaysDiff/30;
+
+	var YearDiff = MonthsDiff/12;
+
+	document.write("Days of difference between <br>"+d1+"<br> and <br>"+d2+" is:<br> " +DaysDiff);
+
+document.write("Months of difference is:<br> " +MonthsDiff);
+
+document.write("Years of difference is:<br> " +YearsDiff);
+
+
+</script>
+
+</body>
+</html>
